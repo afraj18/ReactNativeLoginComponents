@@ -61,9 +61,9 @@ const SignInScreen = () => {
 }
 const styles = StyleSheet.create({
     logo:{
-        width : '70%',
+        width : '90%',
         maxHeight: 300,
-        maxWidth : 300,
+        maxWidth : 400,
 
     },
     root: {
